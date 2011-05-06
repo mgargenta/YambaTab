@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/courseware/!svn/ver/563/trunk/honeycomb/code/YambaTab/src/com/marakana/yambatab
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/courseware/!svn/ver/592/trunk/honeycomb/code/YambaTab/src/com/marakana/yambatab/MainActivity.java
+END
+UpdaterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/courseware/!svn/ver/593/trunk/honeycomb/code/YambaTab/src/com/marakana/yambatab/UpdaterService.java
+END
+StatusFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/courseware/!svn/ver/563/trunk/honeycomb/code/YambaTab/src/com/marakana/yambatab/StatusFragment.java
+END
+TimelineFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/courseware/!svn/ver/593/trunk/honeycomb/code/YambaTab/src/com/marakana/yambatab/TimelineFragment.java
+END
+YambaApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/courseware/!svn/ver/593/trunk/honeycomb/code/YambaTab/src/com/marakana/yambatab/YambaApp.java
+END
+DrawableManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/courseware/!svn/ver/593/trunk/honeycomb/code/YambaTab/src/com/marakana/yambatab/DrawableManager.java
+END
+StatusData.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/courseware/!svn/ver/593/trunk/honeycomb/code/YambaTab/src/com/marakana/yambatab/StatusData.java
+END
+OAuthActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/courseware/!svn/ver/592/trunk/honeycomb/code/YambaTab/src/com/marakana/yambatab/OAuthActivity.java
+END
+StatusProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/courseware/!svn/ver/593/trunk/honeycomb/code/YambaTab/src/com/marakana/yambatab/StatusProvider.java
+END
